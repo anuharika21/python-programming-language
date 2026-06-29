@@ -1,41 +1,70 @@
 # Python Learning Journey 🐍
-
 This repository contains the Python concepts and coding exercises I completed during my Data Analytics training. It reflects my progress in learning Python fundamentals through consistent practice and hands-on examples.
+---
 
-## 🚀 What I've Learned
+## 📚 Topics
 
-
-| Category | Topics |
-|----------|--------|
-| **Python Basics** | Variables, Data Types, Type Conversion, Print Statements |
-| **Operators** | Arithmetic, Comparison, Assignment, Logical, Membership, Identity |
-| **Libraries** | Importing Modules, Built-in Libraries |
-| **Built-in Functions** | Common Python Functions |
-| **Collections** | List, Tuple, Set, Dictionary |
-| **Conversions** | List → Tuple |
-| **Control Flow** | if, else, elif |
-| **Loops** | for Loop, while Loop, break Statement |
-
-## 🎯 Goal
-
-To build a strong Python foundation for Data Analytics and solve real-world problems through programming.
-
-
-
-
-<div align="center">
-
-# Python Fundamentals
-
-Python programming concepts and practice exercises completed as part of my Data Analytics learning journey.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Learning-success?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Beginner-blue?style=for-the-badge)
-
-</div>
+- Variables
+- Data Types
+- Type Conversion
+- Print Statements
+- Operators
+- Python Libraries
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Conditional Statements
+- Loops
+- Break Statement
 
 ---
+
+## 💡 Skills Developed
+
+- Python Syntax
+- Problem Solving
+- Logical Thinking
+- Control Flow
+- Data Manipulation
+- Code Readability
+- Programming Best Practices
+
+---
+
+## 📂 Repository Structure
+
+```
+Python-Fundamentals/
+├── Variables/
+├── Data_Types/
+├── Type_Conversion/
+├── Print_Statements/
+├── Operators/
+├── Libraries/
+├── List/
+├── Tuple/
+├── Set/
+├── Dictionary/
+├── Conditional_Statements/
+├── Loops/
+└── Break_Statement/
+```
+
+---
+
+## 🚀 Technologies
+
+- Python 3
+
+---
+
+## 🎯 Purpose
+
+This repository is created to strengthen Python fundamentals through practical coding and structured learning, providing a solid base for advanced topics such as Data Analytics, Data Science, Machine Learning, and Artificial Intelligence.
+
+---
+
 
 ## 📌 Overview
 
